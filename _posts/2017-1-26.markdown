@@ -6,15 +6,4 @@ categories: jekyll theme
 location: Florence, Italy
 ---
 
-# Heading
-## Heading
-### Heading
-#### Heading
-##### Heading
-###### Heading
-> Block Quote
-> Block Quote
-- point
-	- point
-1. numbers
-2. numbers
+what about the woods?
